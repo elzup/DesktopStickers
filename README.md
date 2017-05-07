@@ -12,6 +12,7 @@ stecker in desktop
 
 * Jetbrains
 * vim
+* Atom
 
 **unix**
 
@@ -20,25 +21,31 @@ stecker in desktop
 
 **Service tools**
 
-* Qiita
 * Github
 * Tumblr
+* reddit
+* Qiita
+* dribble
 
 **Application**
 
 * Sketch
-* Trello
 * Slack
-* Firefox
 * Google Chrome
+* Trello
+* Firefox
 * android
+* Vimperator
 
 **language, framework**
 
+* JavaScript
+* React
 * Python
-* Swift
 * Ruby on Rails
+* Swift
 * PHP
+* java
 
 **Game**
 
