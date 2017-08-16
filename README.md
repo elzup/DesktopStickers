@@ -2,10 +2,10 @@
 stecker in desktop
 
 ## v2 (2017/04)
-![elzup desktop steckers v2](https://raw.githubusercontent.com/elzup/DesktopSteckers/master/dist/v2.png?token=ACLdbAgnX2KMOVo9IY8bgoW06qdK8SADks5ZGC1MwA%3D%3D)
+![elzup desktop steckers v2](./dist/v2.png)
 
 ## v1 (2016/04)
-![elzup desktop steckers](https://raw.githubusercontent.com/elzup/DesktopSteckers/master/dist/v1.png?token=ACLdbOkEbkQthVuk580WEu_DJrklQS8Cks5ZGC0ZwA%3D%3D)
+![elzup desktop steckers](./dist/v1.png)
 
 
 **IDE, editors**
