@@ -1,5 +1,5 @@
 # DesktopSteckers
-stecker in desktop
+> Desktop background with stickers of logo what I love.
 
 ## v2 (2017/04)
 ![elzup desktop steckers v2](./dist/v2.png)
@@ -10,9 +10,9 @@ stecker in desktop
 
 **IDE, editors**
 
-* Jetbrains
-* vim
 * Atom
+* vim
+* Jetbrains
 
 **unix**
 
@@ -22,6 +22,8 @@ stecker in desktop
 **Service tools**
 
 * Github
+* firebase
+* npm
 * Tumblr
 * reddit
 * Qiita
@@ -41,13 +43,18 @@ stecker in desktop
 
 * JavaScript
 * React
+* Redux
+* Flow
+* PWA
 * Python
 * Ruby on Rails
 * Swift
 * PHP
 * java
+* json
 
 **Game**
 
 * Minecraft
 * Factorio
+* Splatoon2
