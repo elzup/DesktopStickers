@@ -1,4 +1,4 @@
-# DesktopSteckers
+# DesktopStickers
 > Desktop background with stickers of logo what I love.
 
 ## v3 (2018/01)
