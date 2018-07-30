@@ -68,6 +68,7 @@
 * AWS
 * Jest
 * GraphQL
+* Material UI
 
 **Game**
 
