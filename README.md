@@ -1,15 +1,21 @@
 # DesktopStickers
 > Desktop background with stickers of logo what I love.
 
-## v3 (2018/01)
-![elzup desktop steckers v3](./dist/v3.png)
+## v4 (2018/08)
+### white
+![elzup desktop steckers v4_white](dist/v4/desktop-stechers-w.png)
 
-## v2 (2017/04)
-![elzup desktop steckers v2](./dist/v2.png)
+### black
+![elzup desktop steckers v4_white](dist/v4/desktop-stechers-b.png)
 
-## v1 (2016/04)
-![elzup desktop steckers](./dist/v1.png)
+### header
+![elzup desktop steckers v4_white](dist/v4/desktop-stechers-header-w.png)
 
+## 🕰 History
+[Releases](https://github.com/elzup/DesktopStickers/releases)
+
+
+## Items
 
 **IDE, editors**
 
@@ -31,6 +37,8 @@
 * reddit
 * Qiita
 * dribble
+* Annict
+* COMP
 
 **Application**
 
@@ -45,19 +53,25 @@
 **language, framework**
 
 * JavaScript
+* node.js
 * React
 * Redux
 * Flow
 * PWA
 * Python
 * Ruby on Rails
+* RSpec
 * Swift
 * PHP
 * java
-* json
+* Firebase
+* AWS
+* Jest
+* GraphQL
 
 **Game**
 
 * Minecraft
 * Factorio
 * Splatoon2
+* Fun Team: Libarent
