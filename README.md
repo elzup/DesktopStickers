@@ -3,13 +3,13 @@
 
 ## v4 (2018/08)
 ### white
-![elzup desktop steckers v4_white](dist/v4/desktop-stechers-w.png)
+![elzup desktop steckers v5_white](dist/v5/desktop-stickers-w.png)
 
 ### black
-![elzup desktop steckers v4_white](dist/v4/desktop-stechers-b.png)
+![elzup desktop steckers v5_black](dist/v5/desktop-stickers-b.png)
 
 ### header
-![elzup desktop steckers v4_white](dist/v4/desktop-stechers-header-w.png)
+![elzup desktop steckers v5_white](dist/v5/desktop-stickers-header-w.png)
 
 ## 🕰 History
 [Releases](https://github.com/elzup/DesktopStickers/releases)
@@ -19,26 +19,28 @@
 
 **IDE, editors**
 
-* Atom
 * vim
+* VSCode
 * Jetbrains
+* Atom
 
 **unix**
 
 * git
 * ArchLinux
+* Raspberry Pi
+* Android
 
 **Service tools**
 
-* Github
-* firebase
+* GitHub
+* Firebase
 * npm
 * Tumblr
 * reddit
 * Qiita
 * dribble
 * Annict
-* COMP
 
 **Application**
 
@@ -47,8 +49,11 @@
 * Google Chrome
 * Trello
 * Firefox
-* android
 * Vimperator
+* MindNode
+* Blender
+* Alfred
+* Habitica
 
 **language, framework**
 
@@ -66,9 +71,14 @@
 * java
 * Firebase
 * AWS
+* GCP
+* Docker
 * Jest
 * GraphQL
 * Material UI
+* TypeScript
+* Gatsby.js
+* ESLint
 
 **Game**
 
