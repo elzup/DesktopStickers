@@ -48,6 +48,8 @@
 * Repl.it
 * Next.js
 * Netlify
+* CodeSandbox
+* Heroku
 
 
 **Application**
@@ -62,7 +64,6 @@
 * Blender
 * Alfred
 * Habitica
-* CodeSandbox
 * Renovate
 * Node RED
 * Notion
@@ -93,7 +94,6 @@
 * Gatsby.js
 * ESLint
 * unity
-* Rust
 * GraphQL
 
 
