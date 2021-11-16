@@ -41,6 +41,14 @@
 * Qiita
 * dribble
 * Annict
+* GitHub copilot
+* Switchbot
+* Zenn
+* Jamstack
+* Repl.it
+* Next.js
+* Netlify
+
 
 **Application**
 
@@ -54,6 +62,11 @@
 * Blender
 * Alfred
 * Habitica
+* CodeSandbox
+* Renovate
+* Node RED
+* Notion
+
 
 **language, framework**
 
@@ -79,10 +92,23 @@
 * TypeScript
 * Gatsby.js
 * ESLint
+* unity
+* Rust
+* GraphQL
+
 
 **Game**
 
 * Minecraft
 * Factorio
 * Splatoon2
-* Fun Team: Libarent
+* Libarent
+* Kurzgesagt
+* Baba is you
+* VRChat
+
+
+ 
+ 
+ 
+ 
