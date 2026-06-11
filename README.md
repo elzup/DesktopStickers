@@ -2,19 +2,15 @@
 
 > Desktop background with stickers of logo what I love.
 
-## v6 (2021/11)
+## v7 (2026/06)
 
 ### white
 
-![elzup desktop steckers v6_white](dist/v6/desktop-stickers-w.png)
+![elzup desktop steckers v7_white](dist/v7/desktop-stickers-w.png)
 
 ### black
 
-![elzup desktop steckers v6_black](dist/v6/desktop-stickers-b.png)
-
-### header
-
-![elzup desktop steckers v6_white](dist/v6/desktop-stickers-header-w.png)
+![elzup desktop steckers v7_black](dist/v7/desktop-stickers-b.png)
 
 ## 🕰 History
 
